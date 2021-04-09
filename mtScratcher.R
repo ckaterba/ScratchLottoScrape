@@ -123,7 +123,13 @@ allGames <- function(){
   return(df)
 }
 
+exportResults <- function(){
+    if(!("outputCSV" %in% list.files())){dir.create("outputCSV")}
+  df <- allGames()
+  write.csv(df, "outputCSV/mtScratcher.csv")
+}
 
+exportResults()
 
 ###
 #Plan 2: be smarter and try to iterate over something in html or interact with js?
