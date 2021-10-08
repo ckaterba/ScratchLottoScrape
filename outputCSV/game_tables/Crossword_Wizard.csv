@@ -1,0 +1,10 @@
+Name,Price,Payout,Probability
+Crossword Wizard,2,2,0.0970873786407767
+Crossword Wizard,2,4,0.0929368029739777
+Crossword Wizard,2,10,0.01719986240110079
+Crossword Wizard,2,20,0.004975124378109453
+Crossword Wizard,2,50,0.00149774589243189
+Crossword Wizard,2,100,9.99000999000999e-4
+Crossword Wizard,2,1000,1.4999774253397486e-5
+Crossword Wizard,2,12000,9.99990000099999e-6
+Crossword Wizard,2,0,0.785279085040348
